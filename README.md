@@ -56,7 +56,7 @@ A Java project focused on payroll-related operations and applying object-oriente
 
 A project focused on managing tourism-related information and travel details.
 
-**Technologies:** Add the actual technologies used in this project.
+**Technologies:** Java
 
 🔗[https://github.com/Backiyalakshmi03/CaseStudy.git](https://github.com/Backiyalakshmi03/CaseStudy.git)
 
